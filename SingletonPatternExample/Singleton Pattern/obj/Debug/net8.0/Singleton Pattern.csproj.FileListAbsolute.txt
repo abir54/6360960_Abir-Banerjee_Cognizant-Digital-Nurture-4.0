@@ -1,0 +1,14 @@
+C:\Users\abirb\OneDrive\Documents\SingletonPatternExample\Singleton Pattern\bin\Debug\net8.0\Singleton Pattern.exe
+C:\Users\abirb\OneDrive\Documents\SingletonPatternExample\Singleton Pattern\bin\Debug\net8.0\Singleton Pattern.deps.json
+C:\Users\abirb\OneDrive\Documents\SingletonPatternExample\Singleton Pattern\bin\Debug\net8.0\Singleton Pattern.runtimeconfig.json
+C:\Users\abirb\OneDrive\Documents\SingletonPatternExample\Singleton Pattern\bin\Debug\net8.0\Singleton Pattern.dll
+C:\Users\abirb\OneDrive\Documents\SingletonPatternExample\Singleton Pattern\bin\Debug\net8.0\Singleton Pattern.pdb
+C:\Users\abirb\OneDrive\Documents\SingletonPatternExample\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abirb\OneDrive\Documents\SingletonPatternExample\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.AssemblyInfoInputs.cache
+C:\Users\abirb\OneDrive\Documents\SingletonPatternExample\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.AssemblyInfo.cs
+C:\Users\abirb\OneDrive\Documents\SingletonPatternExample\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.csproj.CoreCompileInputs.cache
+C:\Users\abirb\OneDrive\Documents\SingletonPatternExample\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.dll
+C:\Users\abirb\OneDrive\Documents\SingletonPatternExample\Singleton Pattern\obj\Debug\net8.0\refint\Singleton Pattern.dll
+C:\Users\abirb\OneDrive\Documents\SingletonPatternExample\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.pdb
+C:\Users\abirb\OneDrive\Documents\SingletonPatternExample\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.genruntimeconfig.cache
+C:\Users\abirb\OneDrive\Documents\SingletonPatternExample\Singleton Pattern\obj\Debug\net8.0\ref\Singleton Pattern.dll
