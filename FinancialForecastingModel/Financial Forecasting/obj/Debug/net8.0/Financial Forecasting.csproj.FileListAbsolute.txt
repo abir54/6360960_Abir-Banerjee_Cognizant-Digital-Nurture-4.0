@@ -1,0 +1,14 @@
+C:\Users\abirb\OneDrive\Documents\FinancialForecastingModel\Financial Forecasting\bin\Debug\net8.0\Financial Forecasting.exe
+C:\Users\abirb\OneDrive\Documents\FinancialForecastingModel\Financial Forecasting\bin\Debug\net8.0\Financial Forecasting.deps.json
+C:\Users\abirb\OneDrive\Documents\FinancialForecastingModel\Financial Forecasting\bin\Debug\net8.0\Financial Forecasting.runtimeconfig.json
+C:\Users\abirb\OneDrive\Documents\FinancialForecastingModel\Financial Forecasting\bin\Debug\net8.0\Financial Forecasting.dll
+C:\Users\abirb\OneDrive\Documents\FinancialForecastingModel\Financial Forecasting\bin\Debug\net8.0\Financial Forecasting.pdb
+C:\Users\abirb\OneDrive\Documents\FinancialForecastingModel\Financial Forecasting\obj\Debug\net8.0\Financial Forecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abirb\OneDrive\Documents\FinancialForecastingModel\Financial Forecasting\obj\Debug\net8.0\Financial Forecasting.AssemblyInfoInputs.cache
+C:\Users\abirb\OneDrive\Documents\FinancialForecastingModel\Financial Forecasting\obj\Debug\net8.0\Financial Forecasting.AssemblyInfo.cs
+C:\Users\abirb\OneDrive\Documents\FinancialForecastingModel\Financial Forecasting\obj\Debug\net8.0\Financial Forecasting.csproj.CoreCompileInputs.cache
+C:\Users\abirb\OneDrive\Documents\FinancialForecastingModel\Financial Forecasting\obj\Debug\net8.0\Financial Forecasting.dll
+C:\Users\abirb\OneDrive\Documents\FinancialForecastingModel\Financial Forecasting\obj\Debug\net8.0\refint\Financial Forecasting.dll
+C:\Users\abirb\OneDrive\Documents\FinancialForecastingModel\Financial Forecasting\obj\Debug\net8.0\Financial Forecasting.pdb
+C:\Users\abirb\OneDrive\Documents\FinancialForecastingModel\Financial Forecasting\obj\Debug\net8.0\Financial Forecasting.genruntimeconfig.cache
+C:\Users\abirb\OneDrive\Documents\FinancialForecastingModel\Financial Forecasting\obj\Debug\net8.0\ref\Financial Forecasting.dll
