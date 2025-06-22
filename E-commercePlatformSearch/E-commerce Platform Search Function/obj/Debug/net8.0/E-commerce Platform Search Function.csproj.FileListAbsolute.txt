@@ -1,0 +1,14 @@
+C:\Users\abirb\OneDrive\Documents\E-commercePlatformSearch\E-commerce Platform Search Function\bin\Debug\net8.0\E-commerce Platform Search Function.exe
+C:\Users\abirb\OneDrive\Documents\E-commercePlatformSearch\E-commerce Platform Search Function\bin\Debug\net8.0\E-commerce Platform Search Function.deps.json
+C:\Users\abirb\OneDrive\Documents\E-commercePlatformSearch\E-commerce Platform Search Function\bin\Debug\net8.0\E-commerce Platform Search Function.runtimeconfig.json
+C:\Users\abirb\OneDrive\Documents\E-commercePlatformSearch\E-commerce Platform Search Function\bin\Debug\net8.0\E-commerce Platform Search Function.dll
+C:\Users\abirb\OneDrive\Documents\E-commercePlatformSearch\E-commerce Platform Search Function\bin\Debug\net8.0\E-commerce Platform Search Function.pdb
+C:\Users\abirb\OneDrive\Documents\E-commercePlatformSearch\E-commerce Platform Search Function\obj\Debug\net8.0\E-commerce Platform Search Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abirb\OneDrive\Documents\E-commercePlatformSearch\E-commerce Platform Search Function\obj\Debug\net8.0\E-commerce Platform Search Function.AssemblyInfoInputs.cache
+C:\Users\abirb\OneDrive\Documents\E-commercePlatformSearch\E-commerce Platform Search Function\obj\Debug\net8.0\E-commerce Platform Search Function.AssemblyInfo.cs
+C:\Users\abirb\OneDrive\Documents\E-commercePlatformSearch\E-commerce Platform Search Function\obj\Debug\net8.0\E-commerce Platform Search Function.csproj.CoreCompileInputs.cache
+C:\Users\abirb\OneDrive\Documents\E-commercePlatformSearch\E-commerce Platform Search Function\obj\Debug\net8.0\E-commerce Platform Search Function.dll
+C:\Users\abirb\OneDrive\Documents\E-commercePlatformSearch\E-commerce Platform Search Function\obj\Debug\net8.0\refint\E-commerce Platform Search Function.dll
+C:\Users\abirb\OneDrive\Documents\E-commercePlatformSearch\E-commerce Platform Search Function\obj\Debug\net8.0\E-commerce Platform Search Function.pdb
+C:\Users\abirb\OneDrive\Documents\E-commercePlatformSearch\E-commerce Platform Search Function\obj\Debug\net8.0\E-commerce Platform Search Function.genruntimeconfig.cache
+C:\Users\abirb\OneDrive\Documents\E-commercePlatformSearch\E-commerce Platform Search Function\obj\Debug\net8.0\ref\E-commerce Platform Search Function.dll
