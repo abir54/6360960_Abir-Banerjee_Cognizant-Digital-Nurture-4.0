@@ -1,0 +1,12 @@
+﻿{
+  "profiles": {
+    "MyFirstWebApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:7131/;http://localhost:5131/",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
