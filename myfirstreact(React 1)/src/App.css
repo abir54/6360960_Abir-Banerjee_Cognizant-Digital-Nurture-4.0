@@ -1,0 +1,16 @@
+.App {
+  /* Full height to center vertically */
+  min-height: 100vh;
+
+  /* Flexbox to center horizontally and vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* Styling for text */
+  background-color: #282c34; /* Dark background */
+  color: white;              /* White text */
+  font-size: 3rem;           /* Bigger font size */
+  font-weight: bold;         /* Bold text */
+  text-align: center;        /* Center align if multi-line */
+}

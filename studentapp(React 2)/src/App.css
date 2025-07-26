@@ -1,0 +1,32 @@
+.App {
+  /* Center everything */
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; /* stack vertically */
+
+  background-color: #f5f5f5; /* light background */
+  text-align: center;
+  gap: 20px; /* space between lines */
+}
+
+/* Common text style */
+.App h1 {
+  font-size: 2rem; /* bigger font size */
+  font-weight: bold; /* bold text */
+  margin: 0;
+}
+
+/* Individual colors */
+.home-text {
+  color: #e63946; /* red */
+}
+
+.about-text {
+  color: #1d3557; /* dark blue */
+}
+
+.contact-text {
+  color: #457b9d; /* light blue */
+}
