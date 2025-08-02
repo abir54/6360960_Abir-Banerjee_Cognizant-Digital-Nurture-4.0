@@ -1,0 +1,74 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+  padding: 40px 20px;
+  background-color: #eef2f5;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+}
+
+h1 {
+  margin-bottom: 30px;
+  color: #2c3e50;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.nav {
+  margin-bottom: 40px;
+}
+
+.nav button {
+  margin: 0 12px;
+  padding: 12px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  transition: background-color 0.3s;
+}
+
+.nav button:hover {
+  background-color: #2980b9;
+}
+
+.card {
+  background-color: white;
+  padding: 30px;
+  width: 500px;
+  max-width: 90%;
+  border-radius: 15px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+.card h2 {
+  font-size: 26px;
+  color: #34495e;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  padding: 10px 0;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #2f3640;
+}
+
+.footer {
+  margin-top: 10px;
+  color: #666;
+  font-size: 16px;
+}
